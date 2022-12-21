@@ -1,4 +1,4 @@
-<<!doctype html>
+<!doctype html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -9,5 +9,7 @@
 </head>
 <body>
 <div>Main Page</div>
+<a href="aboutUs.blade.php">Про нас</a>
+<a href="userProfile.blade.php">Профіль користувача</a>
 </body>
 </html>>
